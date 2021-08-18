@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurNetFacture.webservice", "OurNetFacture.webservice\OurNetFacture.webservice.csproj", "{59004970-CC16-4EC9-9B3A-5221D8DC53BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59004970-CC16-4EC9-9B3A-5221D8DC53BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59004970-CC16-4EC9-9B3A-5221D8DC53BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59004970-CC16-4EC9-9B3A-5221D8DC53BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59004970-CC16-4EC9-9B3A-5221D8DC53BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B843F7E-DDAA-4ECC-AB63-FF02825B0B93}
+	EndGlobalSection
+EndGlobal

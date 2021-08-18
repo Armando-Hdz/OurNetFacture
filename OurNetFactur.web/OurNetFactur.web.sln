@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurNetFactur", "OurNetFactur\OurNetFactur.csproj", "{7B4D4E98-B066-4049-A714-B22848B7F377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4D4E98-B066-4049-A714-B22848B7F377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4D4E98-B066-4049-A714-B22848B7F377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4D4E98-B066-4049-A714-B22848B7F377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4D4E98-B066-4049-A714-B22848B7F377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F86104-A590-4159-9074-8994CF764DAF}
+	EndGlobalSection
+EndGlobal
